@@ -1,6 +1,6 @@
 /*
- * 
- * 
+ * jQuery.vertical-rl
+ * Japanese vertical typography, with least hack!
  *
  * Copyright (c) 2015 Koki Takahashi
  * Licensed under the MIT license.

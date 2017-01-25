@@ -1,5 +1,7 @@
 # jQuery.vertical-rl
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hakatashi/jquery.vertical-rl.svg)](https://greenkeeper.io/)
+
 > Japanese vertical typography, with least hack!
 
 
